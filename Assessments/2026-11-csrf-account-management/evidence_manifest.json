@@ -1,0 +1,68 @@
+[
+  {
+    "evidence_id": "E04",
+    "source_screenshot_number": 4,
+    "source_sha256": "65702f923939fc96f5d786f8290f0141c863767a6831cb8dbf6e0b1876a79138",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E05",
+    "source_screenshot_number": 5,
+    "source_sha256": "3ced9f009275bfa275865fe02f7265cd608a724caeff422454e8355b31b8cd52",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E06",
+    "source_screenshot_number": 6,
+    "source_sha256": "9274ce82aa373c703c0a09a86bb7dc12a424b7c34a6793b45c00da3f0cc58d1d",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E09",
+    "source_screenshot_number": 9,
+    "source_sha256": "a2397fe440c28427531526c0e7963d5d9ec9f456d23dfa2e56b98593f550a898",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E10",
+    "source_screenshot_number": 10,
+    "source_sha256": "81ad63fad5dd91c8edff06e58c18e3a1673dfebdbb66d7a6569e19dacb1d4580",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E11",
+    "source_screenshot_number": 11,
+    "source_sha256": "c5b1bc4a02015b0006b98315bd18ab3b07784e75796a2257d2214beb5a14b5e2",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E12",
+    "source_screenshot_number": 12,
+    "source_sha256": "ef2f4e34d537fa910208daf9852cb71f0021b48c43495f46ecc2d1aae5d2cae3",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E14",
+    "source_screenshot_number": 14,
+    "source_sha256": "48f90aebddc105c479842477bb60cc4d770c2026644cee3af9da36910d4eca39",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E16",
+    "source_screenshot_number": 16,
+    "source_sha256": "b10b7255ab8568836924cfdae4531e246781d93806cde3c2dc2dd81e82d36e21",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E17",
+    "source_screenshot_number": 17,
+    "source_sha256": "680db586fddd60731bbc36c41236e93a85319c581169314bfe0e7b8b4e350c29",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  },
+  {
+    "evidence_id": "E18",
+    "source_screenshot_number": 18,
+    "source_sha256": "0ece2d47daa91503f2db66f75fadb80823e3b2b6f349bd794b07b60128259506",
+    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+  }
+]
