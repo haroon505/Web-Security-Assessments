@@ -150,7 +150,7 @@ Every published image below retains the complete uploaded screenshot frame at it
 
 **What this means:** This is the first request in the token-reuse comparison. The next screenshot shows the same token being accepted again.
 
-![E010: The token worked before reload.](evidence/E010.png)
+![E10: The token worked before reload.](evidence/E10.png)
 
 ### E11 - The same token worked again.
 
@@ -160,7 +160,7 @@ Every published image below retains the complete uploaded screenshot frame at it
 
 **What this means:** The token was reusable. This corrected the earlier idea that every successful request consumed the token. Two success responses are shown; this second screenshot alone does not prove another stored email change.
 
-![E011: The same token worked again.](evidence/E011.png)
+![E11: The same token worked again.](evidence/E11.png)
 
 ### E12 - The old token failed after reload.
 
@@ -170,7 +170,7 @@ Every published image below retains the complete uploaded screenshot frame at it
 
 **What this means:** The old value was no longer accepted after reload. This is different from the token becoming invalid after one use.
 
-![E012: The old token failed after reload.](evidence/E012.png)
+![E12: The old token failed after reload.](evidence/E12.png)
 
 ### E13 - The page showed a new token.
 
@@ -190,7 +190,7 @@ Every published image below retains the complete uploaded screenshot frame at it
 
 **What this means:** The old token failed, but the replacement worked. Together, these tests support token replacement when the page was reloaded. They do not reveal the server's internal code.
 
-![E014: The new token worked.](evidence/E014.png)
+![E14: The new token worked.](evidence/E14.png)
 
 ### E15 - I opened the password form.
 
@@ -220,7 +220,7 @@ Every published image below retains the complete uploaded screenshot frame at it
 
 **What this means:** The current-password check rejected this request. After a successful password change, the old password is no longer current. This error alone says nothing about whether the token was still valid.
 
-![E017: An incorrect current password failed.](evidence/E017.png)
+![E17: An incorrect current password failed.](evidence/E17.png)
 
 ### E18 - The tested GET request failed.
 
