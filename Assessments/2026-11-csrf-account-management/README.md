@@ -6,8 +6,8 @@ This report records my email-change and password-change testing on Proantic. It 
 
 **Status:** Completed — No confirmed CSRF bypass observed.
 
-- [Security Assessment Report](Assessments/2026-11-csrf-account-management/Proantic_CSRF_Assessment.pdf)
-- [Supporting Evidence](Assessments/2026-11-csrf-account-management/evidence/)
+- [Security Assessment Report](Proantic_CSRF_Assessment.pdf)
+- [Supporting Evidence](evidence/)
 
 The assessment documents the tests performed,
 observed responses, and supporting screenshots.
@@ -77,7 +77,7 @@ No exploitable CSRF vulnerability was confirmed.
 
 ## Full evidence and explanations
 
-Every published image below retains the complete uploaded screenshot frame at its original dimensions. Sensitive values are blurred. 6 image files are pending publication approval. E-numbers match the original screenshot numbers. Some headers were already collapsed in Burp when the screenshots were captured. The request-text appendix preserves additional headers from the written notes.
+Every published image below retains the complete uploaded screenshot frame at its original dimensions. Sensitive values are blurred. All 16 original screenshot frames are published. E-numbers match the original screenshot numbers. Some headers were already collapsed in Burp when the screenshots were captured. The request-text appendix preserves additional headers from the written notes.
 
 ### E03 - I opened the email-change form.
 
