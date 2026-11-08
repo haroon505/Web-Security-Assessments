@@ -4,7 +4,14 @@
 
 This report records my email-change and password-change testing on Proantic. It contains the full original screenshots and explains each test in simple English.
 
-**Publication status:** The complete illustrated PDF is prepared. Its public upload is pending approval. The assessment below contains 10 approved full-frame screenshots; the remaining image entries are clearly marked.
+**Status:** Completed — No confirmed CSRF bypass observed.
+
+- [Security Assessment Report](Assessments/ACTUAL-PROANTIC-FOLDER/ACTUAL-REPORT.pdf)
+- [Supporting Evidence](Assessments/ACTUAL-PROANTIC-FOLDER/ACTUAL-EVIDENCE-FOLDER/)
+
+The assessment documents the tests performed,
+observed responses, and supporting screenshots.
+No exploitable CSRF vulnerability was confirmed.
 
 ## Target and scope
 
