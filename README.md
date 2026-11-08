@@ -2,23 +2,26 @@
 
 Practical web application security testing and reports by **Haroon Shahid**.
 
-Each entry records what I tested, the evidence collected, the result and the limits of the assessment. Confirmed vulnerabilities and tests with no confirmed finding are kept in separate folders.
+Each record explains the target, the tests, the evidence, the result and the limits of the conclusion.
 
 ## Reports
 
-| Assessment | Focus | Outcome | Report |
+| Target | Coverage | Outcome | Public files |
 | --- | --- | --- | --- |
-| [Account management CSRF assessment](Assessments/2026-11-csrf-account-management/) | Token validation, cross-account rejection, token lifecycle and password verification | No CSRF vulnerability identified in the tested scenarios | [PDF](Assessments/2026-11-csrf-account-management/CSRF_Account_Management_Assessment.pdf) |
+| **Proantic** | Email and password changes: token validation, two-account checks, token reuse, reload behaviour and current-password checks | No CSRF vulnerability confirmed in the documented cases | [Assessment and available full-frame evidence](Assessments/2026-11-csrf-account-management/) · Illustrated PDF publication pending |
+| **Loyal Hit** | Account-edit request: incorrect, empty, missing and substituted nonce values | No CSRF bypass observed; a successful valid-token replay control was not documented | [Assessment](Assessments/2026-11-loyalhit-csrf/) · [PDF](Assessments/2026-11-loyalhit-csrf/LoyalHit_CSRF_Assessment_Public.pdf) |
+
+## Evidence status
+
+The Proantic assessment currently publishes 10 complete screenshot frames. Sensitive fields were erased before blur. 6 further screenshots and the illustrated PDF are pending approval for public upload. These entries are marked in the assessment instead of presenting cropped substitutes.
+
+The Loyal Hit PDF and request transcription are available. Sensitive cookie, email and token values use placeholders.
 
 ## Repository structure
 
 | Folder | Contents |
 | --- | --- |
-| [`Assessments/`](Assessments/) | Completed tests where no vulnerability was confirmed in the documented scenarios. |
-| [`Findings/`](Findings/) | Confirmed vulnerability reports cleared for public disclosure. |
+| [Assessments/](Assessments/) | Tests with no confirmed vulnerability in the documented cases. |
+| [Findings/](Findings/) | Confirmed vulnerabilities cleared for public disclosure. |
 
-An assessment with no confirmed finding is a record of the tested behavior, not a claim that an application is completely secure. Future entries will use the same separation between observations, conclusions and untested areas.
-
-## Publication
-
-Published material excludes credentials, session identifiers and personal account information. This first assessment anonymizes the target and endpoint. Vulnerability reports belong here only after the applicable disclosure conditions have been met.
+A failed bypass attempt is a documented assessment result, not proof that the entire application is secure.

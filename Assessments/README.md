@@ -1,7 +1,6 @@
 # Assessments
 
-Completed tests where no vulnerability was confirmed in the documented scenarios.
-
-| Date | Assessment | Result |
+| Target | Result | Files |
 | --- | --- | --- |
-| 7 November 2026 (UTC captures) | [Account management CSRF assessment](2026-11-csrf-account-management/) | No CSRF vulnerability identified in the tested scenarios. |
+| [Proantic](2026-11-csrf-account-management/) | No CSRF vulnerability confirmed in the tested cases | Test record and available full-frame images; illustrated PDF pending publication approval |
+| [Loyal Hit](2026-11-loyalhit-csrf/) | No bypass observed in the reported nonce tests; replay control not documented | [PDF](2026-11-loyalhit-csrf/LoyalHit_CSRF_Assessment_Public.pdf) and public request |

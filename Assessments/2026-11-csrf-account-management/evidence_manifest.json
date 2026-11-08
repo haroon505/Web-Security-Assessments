@@ -1,68 +1,182 @@
 [
   {
+    "evidence_id": "E03",
+    "report_page": 4,
+    "source_screenshot_number": 3,
+    "package_path": "evidence/E03.png",
+    "width": 1419,
+    "height": 587,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "I opened the email-change form.",
+    "published_sha256": "becdce3e55bf3571f9e13602fb71fadd679014e787d77814ee8955db8203fd73",
+    "publication_status": "published full-frame with sensitive values removed before blur"
+  },
+  {
     "evidence_id": "E04",
+    "report_page": 5,
     "source_screenshot_number": 4,
-    "source_sha256": "65702f923939fc96f5d786f8290f0141c863767a6831cb8dbf6e0b1876a79138",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "package_path": "evidence/E04.png",
+    "width": 1920,
+    "height": 774,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "A normal request worked.",
+    "published_sha256": "b7c66bc9fe8a5c9243153a14e76188792291a791be1676893db05a04dd8b2f2b",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E05",
+    "report_page": 6,
     "source_screenshot_number": 5,
-    "source_sha256": "3ced9f009275bfa275865fe02f7265cd608a724caeff422454e8355b31b8cd52",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "package_path": "evidence/E05.png",
+    "width": 1920,
+    "height": 708,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "Removing the token failed.",
+    "published_sha256": "01e70929190f9c53190222d1fa379a7a6b74f664a322b33cff9e13388b418167",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E06",
+    "report_page": 7,
     "source_screenshot_number": 6,
-    "source_sha256": "9274ce82aa373c703c0a09a86bb7dc12a424b7c34a6793b45c00da3f0cc58d1d",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "width": 1920,
+    "height": 775,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "A made-up token failed.",
+    "publication_status": "pending approval; not uploaded"
+  },
+  {
+    "evidence_id": "E07",
+    "report_page": 8,
+    "source_screenshot_number": 7,
+    "package_path": "evidence/E07.png",
+    "width": 1516,
+    "height": 1027,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "I found the main account's token.",
+    "published_sha256": "0c39d1da098beb6bd22ee509f38f0f482c9168b2483ab297fdfe3f0daf3b05d3",
+    "publication_status": "published full-frame with sensitive values removed before blur"
+  },
+  {
+    "evidence_id": "E08",
+    "report_page": 9,
+    "source_screenshot_number": 8,
+    "package_path": "evidence/E08.png",
+    "width": 1516,
+    "height": 973,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "I found the second account's token.",
+    "published_sha256": "b1a1fced53aafa97bc9fc29159cd95f03deed8c2f55121f9a85dede3f324b4b7",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E09",
+    "report_page": 10,
     "source_screenshot_number": 9,
-    "source_sha256": "a2397fe440c28427531526c0e7963d5d9ec9f456d23dfa2e56b98593f550a898",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "package_path": "evidence/E09.png",
+    "width": 1920,
+    "height": 710,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The other account's token failed.",
+    "published_sha256": "07996bb55acf1546af57045bc6ec2ebfc74a30590584ee2b76b4621751c76432",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E10",
+    "report_page": 11,
     "source_screenshot_number": 10,
-    "source_sha256": "81ad63fad5dd91c8edff06e58c18e3a1673dfebdbb66d7a6569e19dacb1d4580",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "width": 1920,
+    "height": 772,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The token worked before reload.",
+    "publication_status": "pending approval; not uploaded"
   },
   {
     "evidence_id": "E11",
+    "report_page": 12,
     "source_screenshot_number": 11,
-    "source_sha256": "c5b1bc4a02015b0006b98315bd18ab3b07784e75796a2257d2214beb5a14b5e2",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "width": 1920,
+    "height": 770,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The same token worked again.",
+    "publication_status": "pending approval; not uploaded"
   },
   {
     "evidence_id": "E12",
+    "report_page": 13,
     "source_screenshot_number": 12,
-    "source_sha256": "ef2f4e34d537fa910208daf9852cb71f0021b48c43495f46ecc2d1aae5d2cae3",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "width": 1919,
+    "height": 773,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The old token failed after reload.",
+    "publication_status": "pending approval; not uploaded"
+  },
+  {
+    "evidence_id": "E13",
+    "report_page": 14,
+    "source_screenshot_number": 13,
+    "package_path": "evidence/E13.png",
+    "width": 1519,
+    "height": 1032,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The page showed a new token.",
+    "published_sha256": "20cc235bd5a5bc7f01895e96bc2d2456e23f96751997010776bcfc4c46b5fc06",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E14",
+    "report_page": 15,
     "source_screenshot_number": 14,
-    "source_sha256": "48f90aebddc105c479842477bb60cc4d770c2026644cee3af9da36910d4eca39",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "width": 1920,
+    "height": 821,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The new token worked.",
+    "publication_status": "pending approval; not uploaded"
+  },
+  {
+    "evidence_id": "E15",
+    "report_page": 16,
+    "source_screenshot_number": 15,
+    "package_path": "evidence/E15.png",
+    "width": 1517,
+    "height": 1027,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "I opened the password form.",
+    "published_sha256": "8cc27a8f0f2d4dd3142403357e1f207f8c43181ade920023391f3dc25010a081",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E16",
+    "report_page": 17,
     "source_screenshot_number": 16,
-    "source_sha256": "b10b7255ab8568836924cfdae4531e246781d93806cde3c2dc2dd81e82d36e21",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "package_path": "evidence/E16.png",
+    "width": 1920,
+    "height": 762,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The correct current password worked.",
+    "published_sha256": "a787042765dc07012a2803cbbb1309815399a6e1f3c4ca4c22b34975f196404a",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   },
   {
     "evidence_id": "E17",
+    "report_page": 18,
     "source_screenshot_number": 17,
-    "source_sha256": "680db586fddd60731bbc36c41236e93a85319c581169314bfe0e7b8b4e350c29",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "width": 1920,
+    "height": 823,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "An incorrect current password failed.",
+    "publication_status": "pending approval; not uploaded"
   },
   {
     "evidence_id": "E18",
+    "report_page": 19,
     "source_screenshot_number": 18,
-    "source_sha256": "0ece2d47daa91503f2db66f75fadb80823e3b2b6f349bd794b07b60128259506",
-    "treatment": "Two exact response excerpts: status/server/date and result body; intervening headers and request pane omitted. Rasterized; no generated or reconstructed screenshot text."
+    "package_path": "evidence/E18.png",
+    "width": 1920,
+    "height": 776,
+    "treatment": "Full uploaded frame retained at original dimensions. Sensitive pixels overwritten before placeholder blur; no original credential pixels remain in the masked regions.",
+    "title": "The tested GET request failed.",
+    "published_sha256": "6ed8bdddafc390278b44386e88c84a5d446840faacc33140c7b6e1225e0e4d85",
+    "publication_status": "published full-frame with sensitive values removed before blur"
   }
 ]
