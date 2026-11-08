@@ -6,8 +6,8 @@ This report records my email-change and password-change testing on Proantic. It 
 
 **Status:** Completed — No confirmed CSRF bypass observed.
 
-- [Security Assessment Report](Assessments/ACTUAL-PROANTIC-FOLDER/ACTUAL-REPORT.pdf)
-- [Supporting Evidence](Assessments/ACTUAL-PROANTIC-FOLDER/ACTUAL-EVIDENCE-FOLDER/)
+- [Security Assessment Report](Assessments/2026-11-csrf-account-management/Proantic_CSRF_Assessment.pdf)
+- [Supporting Evidence](Assessments/2026-11-csrf-account-management/evidence/)
 
 The assessment documents the tests performed,
 observed responses, and supporting screenshots.
